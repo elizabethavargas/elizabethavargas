@@ -9,6 +9,4 @@
 - **Visualization**: D3.js, Tableau, Matplotlib  
 - **Databases**: PostgreSQL, SQLite  
 
-### 📬 Contact Me
-- [LinkedIn](https://linkedin.com/in/elizabethgreervargas)  
-- [Upwork](https://www.upwork.com/freelancers/~yourprofile)
+### 📬 Contact Me: [LinkedIn](https://linkedin.com/in/elizabethgreervargas)  
