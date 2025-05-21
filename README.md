@@ -7,6 +7,6 @@
 - **Languages**: Python, SQL, JavaScript (D3.js)  
 - **Tools & Libraries**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly, Jupyter, Git  
 - **Visualization**: D3.js, Tableau, Matplotlib  
-- **Databases**: PostgreSQL, SQLite  
+
 
 ### 📬 Contact Me: [LinkedIn](https://linkedin.com/in/elizabethgreervargas)  
