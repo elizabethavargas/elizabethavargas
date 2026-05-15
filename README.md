@@ -1,6 +1,5 @@
 ## Hi, I'm Elizabeth Vargas 👋
-🎓 Master's student in Computer Science @ NYU  
-📊 Aspiring Data Scientist | Data Analysis • Machine Learning • Python & SQL
+📊 Data Analysis • Machine Learning • Python & SQL
 
 ### 🛠️ Tools
 - **Languages**: Python, SQL
